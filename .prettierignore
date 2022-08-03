@@ -1,0 +1,5 @@
+**/*.svg
+**/*.ejs
+**/*.html
+node_modules/*
+dist/*
